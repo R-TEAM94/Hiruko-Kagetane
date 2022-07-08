@@ -22,18 +22,18 @@ global.limitCount = 70 //70 Dah Pas Banh
 global.prefa = ['','.','/','#']
 
 //===> UBAH DISINI
-global.namaowner = 'Ryuuka Team' //Ganti Jadi Namamu
-global.owner = ['6285609233482','6283891921787'] //Kalo Mau Lebih Tambahin Aja
-global.nomerowner = '6285609233482' //Owner Utama Istilahnya
+global.namaowner = 'Tom' //Ganti Jadi Namamu
+global.owner = ['6281359053674',6285609233482','6283891921787'] //Kalo Mau Lebih Tambahin Aja
+global.nomerowner = '6281359053674' //Owner Utama Istilahnya
 global.namabot = 'Hiruko Kagetane' //Ganti Jadi Nama Botmu
 global.packname = 'Hiruko Kagetane' //Sticker Weem
-global.author = 'By Ryuuka Team' //Sticker Weem
+global.author = 'By The Next Team' //Sticker Weem
 global.webme = 'https://api-ryubotz.herokuapp.com' //Ganti Sama Web Mu
 global.linkgroup = 'https://chat.whatsapp.com/BhOYdoWNRFC4n4bdsEexlV' //Ganti Sama Link Gc Mu
 global.sessionName = 'session'
-global.youtube = 'https://youtube.com/c/RyuukaBotz' //Ganti Sama Link Yt Mu
+global.youtube = 'https://youtube.com/c/Projects The Next' //Ganti Sama Link Yt Mu
 global.github = 'https://github.com/R-TEAM94' //Ganti Sama Link Github Mu
-global.instagram = 'https://instagram.com/fandyyy._' //Ganti Sama Link Ig mu
+global.instagram = 'https://instagram.com/rangga_1532._' //Ganti Sama Link Ig mu
 
 //===> BACKGROUND SETIAP MENU
 global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
